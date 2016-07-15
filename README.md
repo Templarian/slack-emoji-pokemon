@@ -14,3 +14,7 @@ https://raw.githubusercontent.com/templarian/slack-emoji-pokemon/master/pokemon-
 ```
 
 Or the less recommended approach is to upload each by hand from the `emojis` folder.
+
+## Want to say Thanks
+
+It's as simple as hitting the :star: Star :star: button.
