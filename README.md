@@ -15,6 +15,12 @@ https://raw.githubusercontent.com/templarian/slack-emoji-pokemon/master/pokemon-
 
 Or the less recommended approach is to upload each by hand from the `emojis` folder.
 
+## Translations
+
+[French](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon.fr.yaml) ([Prefixed pokemon-*](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon-prefix.fr.yaml))
+
+If you want to add an additonal translation please create a pull request with the folder `translations/__`.
+
 ## Want to say Thanks
 
 It's as simple as hitting the :star: Star :star: button.
