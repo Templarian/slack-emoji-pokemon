@@ -1,0 +1,306 @@
+title: pokemon
+emojis:
+  - name: bisasam
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: bisaknosp
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: bisaflor
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: glumanda
+    src: http://i.imgur.com/jee6nD3.png
+  - name: glutexo
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: glurak
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: schiggy
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: schillok
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: turtok
+    src: http://i.imgur.com/YY1opfi.png
+  - name: raupy
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: safcon
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: smettbo
+    src: http://i.imgur.com/hQAWSog.png
+  - name: hornliu
+    src: http://i.imgur.com/t3J27X2.png
+  - name: kokuna
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: bibor
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: taubsi
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: tauboga
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: tauboss
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: rattfratz
+    src: http://i.imgur.com/bTejs34.png
+  - name: rattikarl
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: habitak
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: ibitak
+    src: http://i.imgur.com/LObFh67.png
+  - name: rettan
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: arbok
+    src: http://i.imgur.com/sbshBkp.png
+  - name: pikachu
+    src: http://i.imgur.com/d8zj42u.png
+  - name: raichu
+    src: http://i.imgur.com/cX0wvid.png
+  - name: sandan
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: sandamer
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: nidoran♀
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: nidorina
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: nidoqueen
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: nidoran♂
+    src: http://i.imgur.com/GRMydJg.png
+  - name: nidorino
+    src: http://i.imgur.com/XtN73fs.png
+  - name: nidoking
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: piepi
+    src: http://i.imgur.com/z8n0knm.png
+  - name: pixi
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: vulpix
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: vulnona
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: pummeluff
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: knuddeluff
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: zubat
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: golbat
+    src: http://i.imgur.com/muZnJwl.png
+  - name: myrapla
+    src: http://i.imgur.com/ng75ubV.png
+  - name: duflor
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: giflor
+    src: http://i.imgur.com/QipChtU.png
+  - name: paras
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: parasek
+    src: http://i.imgur.com/TTm83oB.png
+  - name: bluzuk
+    src: http://i.imgur.com/rK55R0R.png
+  - name: omot
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: digda
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: digdri
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: mauzi
+    src: http://i.imgur.com/VBO9q67.png
+  - name: snobilikat
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: enton
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: entoron
+    src: http://i.imgur.com/6elJIqf.png
+  - name: menki
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: rasaff
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: fukano
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: arkani
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: quapsel
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: quaputzi
+    src: http://i.imgur.com/LstLmxR.png
+  - name: quappo
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: abra
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: kadabra
+    src: http://i.imgur.com/MImxjGE.png
+  - name: simsala
+    src: http://i.imgur.com/39ffQOc.png
+  - name: machollo
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: maschock
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: machomei
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: knofensa
+    src: http://i.imgur.com/z9GIhur.png
+  - name: ultrigaria
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: sarzenia
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: tentacha
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: tentoxa
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: kleinstein
+    src: http://i.imgur.com/7stN60U.png
+  - name: georok
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: geowaz
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: ponita
+    src: http://i.imgur.com/QOAowzP.png
+  - name: gallopa
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: flegmon
+    src: http://i.imgur.com/JHOjICn.png
+  - name: lahmus
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: magnetilo
+    src: http://i.imgur.com/9838phS.png
+  - name: magneton
+    src: http://i.imgur.com/3bLL11M.png
+  - name: farfetch
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: dodu
+    src: http://i.imgur.com/kah8lVf.png
+  - name: dodri
+    src: http://i.imgur.com/pplDPof.png
+  - name: jurob
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: jugong
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: sleima
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: sleimok
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: muschas
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: austos
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: nebulak
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: alpollo
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: gengar
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: onix
+    src: http://i.imgur.com/0VorWp9.png
+  - name: traumato
+    src: http://i.imgur.com/0r60JJM.png
+  - name: hypno
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: krabby
+    src: http://i.imgur.com/jY95paa.png
+  - name: kingler
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: voltobal
+    src: http://i.imgur.com/HcFELhG.png
+  - name: lektrobal
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: owei
+    src: http://i.imgur.com/iR6uH27.png
+  - name: kokowei
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: tragosso
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: knogga
+    src: http://i.imgur.com/UdDCob5.png
+  - name: kicklee
+    src: http://i.imgur.com/neZvjyS.png
+  - name: nockchan
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: schlurp
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: smogon
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: smogmog
+    src: http://i.imgur.com/AM4T75L.png
+  - name: rihorn
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: rizeros
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: chaneira
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: tangela
+    src: http://i.imgur.com/YifjSAL.png
+  - name: kangama
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: seeper
+    src: http://i.imgur.com/KPORG91.png
+  - name: seemon
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: goldini
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: golking
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: sterndu
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: starmie
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: pantimos
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: sichlor
+    src: http://i.imgur.com/rRHori0.png
+  - name: rossana
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: elektek
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: magmar
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: pinsir
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: tauros
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: karpador
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: garados
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: lapras
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: ditto
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: evoli
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: aquana
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: blitza
+    src: http://i.imgur.com/my4fdKU.png
+  - name: flamara
+    src: http://i.imgur.com/9IoE33v.png
+  - name: porygon
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: amonitas
+    src: http://i.imgur.com/kX5obKw.png
+  - name: amoroso
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: kabuto
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: kabutops
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: aerodactyl
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: relaxo
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: arktos
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: zapdos
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: lavados
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: dratini
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: dragonir
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: dragoran
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: mewtu
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: mew
+    src: http://i.imgur.com/5n3F79K.png
+  - name: riolu
+    src: http://i.imgur.com/HPYzUSy.png

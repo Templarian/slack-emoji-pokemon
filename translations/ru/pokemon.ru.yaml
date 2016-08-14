@@ -1,0 +1,306 @@
+title: pokemon
+emojis:
+  - name: бульбазавр
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: айвизавр
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: венузавр
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: чармандер
+    src: http://i.imgur.com/jee6nD3.png
+  - name: чармелеон
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: чаризард
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: сквиртл
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: вартортл
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: бластойз
+    src: http://i.imgur.com/YY1opfi.png
+  - name: катерпи
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: метапод
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: баттерфри
+    src: http://i.imgur.com/hQAWSog.png
+  - name: видл
+    src: http://i.imgur.com/t3J27X2.png
+  - name: какуна
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: бидрилл
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: пиджи
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: пиджеотто
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: пиджеот
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: раттата
+    src: http://i.imgur.com/bTejs34.png
+  - name: ратикейт
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: спироу
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: фироу
+    src: http://i.imgur.com/LObFh67.png
+  - name: эканс
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: арбок
+    src: http://i.imgur.com/sbshBkp.png
+  - name: пикачу
+    src: http://i.imgur.com/d8zj42u.png
+  - name: райчу
+    src: http://i.imgur.com/cX0wvid.png
+  - name: сэндшрю
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: сэндслэш
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: нидоран♀
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: нидорина
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: нидоквин
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: нидоран♂
+    src: http://i.imgur.com/GRMydJg.png
+  - name: нидорино
+    src: http://i.imgur.com/XtN73fs.png
+  - name: нидокинг
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: клефэйри
+    src: http://i.imgur.com/z8n0knm.png
+  - name: клефейбл
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: валпикс
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: найнтэйлс
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: джигглипафф
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: вигглитафф
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: зубат
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: голбат
+    src: http://i.imgur.com/muZnJwl.png
+  - name: оддиш
+    src: http://i.imgur.com/ng75ubV.png
+  - name: глум
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: вайлплюм
+    src: http://i.imgur.com/QipChtU.png
+  - name: парас
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: парасект
+    src: http://i.imgur.com/TTm83oB.png
+  - name: венонат
+    src: http://i.imgur.com/rK55R0R.png
+  - name: веномот
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: диглетт
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: дагтрио
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: мяут
+    src: http://i.imgur.com/VBO9q67.png
+  - name: персиан
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: псайдак
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: голдак
+    src: http://i.imgur.com/6elJIqf.png
+  - name: манки
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: праймейп
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: гроулит
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: арканайн
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: поливаг
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: поливирл
+    src: http://i.imgur.com/LstLmxR.png
+  - name: поливрат
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: абра
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: кадабра
+    src: http://i.imgur.com/MImxjGE.png
+  - name: алаказам
+    src: http://i.imgur.com/39ffQOc.png
+  - name: мачоп
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: мачоук
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: мачамп
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: беллспраут
+    src: http://i.imgur.com/z9GIhur.png
+  - name: випинбелл
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: виктрибел
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: тентакул
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: тентакрул
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: геодуд
+    src: http://i.imgur.com/7stN60U.png
+  - name: гравелер
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: голем
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: понита
+    src: http://i.imgur.com/QOAowzP.png
+  - name: рапидаш
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: слоупок
+    src: http://i.imgur.com/JHOjICn.png
+  - name: слоубро
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: магнемайт
+    src: http://i.imgur.com/9838phS.png
+  - name: магнетон
+    src: http://i.imgur.com/3bLL11M.png
+  - name: farfetch
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: додуо
+    src: http://i.imgur.com/kah8lVf.png
+  - name: додрио
+    src: http://i.imgur.com/pplDPof.png
+  - name: сил
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: дьюгонг
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: граймер
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: мак
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: шеллдер
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: клойстер
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: гастли
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: хонтер
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: генгар
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: оникс
+    src: http://i.imgur.com/0VorWp9.png
+  - name: драузи
+    src: http://i.imgur.com/0r60JJM.png
+  - name: гипно
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: крабби
+    src: http://i.imgur.com/jY95paa.png
+  - name: кинглер
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: волторб
+    src: http://i.imgur.com/HcFELhG.png
+  - name: электрод
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: эксегкьют
+    src: http://i.imgur.com/iR6uH27.png
+  - name: экзегкьютор
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: кьюбон
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: маровак
+    src: http://i.imgur.com/UdDCob5.png
+  - name: хитмонли
+    src: http://i.imgur.com/neZvjyS.png
+  - name: хитмончан
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: ликитанг
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: коффинг
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: визинг
+    src: http://i.imgur.com/AM4T75L.png
+  - name: райхорн
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: райдон
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: ченси
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: тангела
+    src: http://i.imgur.com/YifjSAL.png
+  - name: кангасхан
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: хорси
+    src: http://i.imgur.com/KPORG91.png
+  - name: сидра
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: голдин
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: сикинг
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: старью
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: старми
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: мистер майм
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: скайтер
+    src: http://i.imgur.com/rRHori0.png
+  - name: джинкс
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: электабазз
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: магмар
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: пинсир
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: таурос
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: мэджикарп
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: гиарадос
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: лапрас
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: дитто
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: иви
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: вапореон
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: джолтеон
+    src: http://i.imgur.com/my4fdKU.png
+  - name: флареон
+    src: http://i.imgur.com/9IoE33v.png
+  - name: поригон
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: оманайт
+    src: http://i.imgur.com/kX5obKw.png
+  - name: омастар
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: кабуто
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: кабутопс
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: аэродактиль
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: снорлакс
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: артикуно
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: запдос
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: молтрес
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: дратини
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: драгонэйр
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: драгонайт
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: мьюту
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: мью
+    src: http://i.imgur.com/5n3F79K.png
+  - name: riolu
+    src: http://i.imgur.com/HPYzUSy.png

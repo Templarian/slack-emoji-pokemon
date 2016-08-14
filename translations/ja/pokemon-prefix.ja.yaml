@@ -1,0 +1,306 @@
+title: pokemon-prefix
+emojis:
+  - name: pokemon-フシギダネ
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: pokemon-フシギソウ
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: pokemon-フシギバナ
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: pokemon-ヒトカゲ
+    src: http://i.imgur.com/jee6nD3.png
+  - name: pokemon-リザード
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: pokemon-リザードン
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: pokemon-ゼニガメ
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: pokemon-カメール
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: pokemon-カメックス
+    src: http://i.imgur.com/YY1opfi.png
+  - name: pokemon-キャタピー
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: pokemon-トランセル
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: pokemon-バタフリー
+    src: http://i.imgur.com/hQAWSog.png
+  - name: pokemon-ビードル
+    src: http://i.imgur.com/t3J27X2.png
+  - name: pokemon-コクーン
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: pokemon-スピアー
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: pokemon-ポッポ
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: pokemon-ピジョン
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: pokemon-ピジョット
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: pokemon-コラッタ
+    src: http://i.imgur.com/bTejs34.png
+  - name: pokemon-ラッタ
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: pokemon-オニスズメ
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: pokemon-オニドリル
+    src: http://i.imgur.com/LObFh67.png
+  - name: pokemon-アーボ
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: pokemon-アーボック
+    src: http://i.imgur.com/sbshBkp.png
+  - name: pokemon-ピカチュウ
+    src: http://i.imgur.com/d8zj42u.png
+  - name: pokemon-ライチュウ
+    src: http://i.imgur.com/cX0wvid.png
+  - name: pokemon-サンド
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: pokemon-サンドパン
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: pokemon-ニドラン♀
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: pokemon-ニドリーナ
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: pokemon-ニドクイン
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: pokemon-ニドラン♂
+    src: http://i.imgur.com/GRMydJg.png
+  - name: pokemon-ニドリーノ
+    src: http://i.imgur.com/XtN73fs.png
+  - name: pokemon-ニドキング
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: pokemon-ピッピ
+    src: http://i.imgur.com/z8n0knm.png
+  - name: pokemon-ピクシー
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: pokemon-ロコン
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: pokemon-キュウコン
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: pokemon-プリン
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: pokemon-プクリン
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: pokemon-ズバット
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: pokemon-ゴルバット
+    src: http://i.imgur.com/muZnJwl.png
+  - name: pokemon-ナゾノクサ
+    src: http://i.imgur.com/ng75ubV.png
+  - name: pokemon-クサイハナ
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: pokemon-ラフレシア
+    src: http://i.imgur.com/QipChtU.png
+  - name: pokemon-パラス
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: pokemon-パラセクト
+    src: http://i.imgur.com/TTm83oB.png
+  - name: pokemon-コンパン
+    src: http://i.imgur.com/rK55R0R.png
+  - name: pokemon-モルフォン
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: pokemon-ディグダ
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: pokemon-ダグトリオ
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: pokemon-ニャース
+    src: http://i.imgur.com/VBO9q67.png
+  - name: pokemon-ペルシアン
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: pokemon-コダック
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: pokemon-ゴルダック
+    src: http://i.imgur.com/6elJIqf.png
+  - name: pokemon-マンキー
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: pokemon-オコリザル
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: pokemon-ガーディ
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: pokemon-ウインディ
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: pokemon-ニョロモ
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: pokemon-ニョロゾ
+    src: http://i.imgur.com/LstLmxR.png
+  - name: pokemon-ニョロボン
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: pokemon-ケーシィ
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: pokemon-ユンゲラー
+    src: http://i.imgur.com/MImxjGE.png
+  - name: pokemon-フーディン
+    src: http://i.imgur.com/39ffQOc.png
+  - name: pokemon-ワンリキー
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: pokemon-ゴーリキー
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: pokemon-カイリキー
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: pokemon-マダツボミ
+    src: http://i.imgur.com/z9GIhur.png
+  - name: pokemon-ウツドン
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: pokemon-ウツボット
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: pokemon-メノクラゲ
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: pokemon-ドククラゲ
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: pokemon-イシツブテ
+    src: http://i.imgur.com/7stN60U.png
+  - name: pokemon-ゴローン
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: pokemon-ゴローニャ
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: pokemon-ポニータ
+    src: http://i.imgur.com/QOAowzP.png
+  - name: pokemon-ギャロップ
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: pokemon-ヤドン
+    src: http://i.imgur.com/JHOjICn.png
+  - name: pokemon-ヤドラン
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: pokemon-コイル
+    src: http://i.imgur.com/9838phS.png
+  - name: pokemon-レアコイル
+    src: http://i.imgur.com/3bLL11M.png
+  - name: pokemon-farfetch
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: pokemon-ドードー
+    src: http://i.imgur.com/kah8lVf.png
+  - name: pokemon-ドードリオ
+    src: http://i.imgur.com/pplDPof.png
+  - name: pokemon-パウワウ
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: pokemon-ジュゴン
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: pokemon-ベトベター
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: pokemon-ベトベトン
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: pokemon-シェルダー
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: pokemon-パルシェン
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: pokemon-ゴース
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: pokemon-ゴースト
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: pokemon-ゲンガー
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: pokemon-イワーク
+    src: http://i.imgur.com/0VorWp9.png
+  - name: pokemon-スリープ
+    src: http://i.imgur.com/0r60JJM.png
+  - name: pokemon-スリーパー
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: pokemon-クラブ
+    src: http://i.imgur.com/jY95paa.png
+  - name: pokemon-キングラー
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: pokemon-ビリリダマ
+    src: http://i.imgur.com/HcFELhG.png
+  - name: pokemon-マルマイン
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: pokemon-タマタマ
+    src: http://i.imgur.com/iR6uH27.png
+  - name: pokemon-ナッシー
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: pokemon-カラカラ
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: pokemon-ガラガラ
+    src: http://i.imgur.com/UdDCob5.png
+  - name: pokemon-サワムラー
+    src: http://i.imgur.com/neZvjyS.png
+  - name: pokemon-エビワラー
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: pokemon-ベロリンガ
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: pokemon-ドガース
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: pokemon-マタドガス
+    src: http://i.imgur.com/AM4T75L.png
+  - name: pokemon-サイホーン
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: pokemon-サイドン
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: pokemon-ラッキー
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: pokemon-モンジャラ
+    src: http://i.imgur.com/YifjSAL.png
+  - name: pokemon-ガルーラ
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: pokemon-タッツー
+    src: http://i.imgur.com/KPORG91.png
+  - name: pokemon-シードラ
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: pokemon-トサキント
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: pokemon-アズマオウ
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: pokemon-ヒトデマン
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: pokemon-スターミー
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: pokemon-バリヤード
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: pokemon-ストライク
+    src: http://i.imgur.com/rRHori0.png
+  - name: pokemon-ルージュラ
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: pokemon-エレブー
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: pokemon-ブーバー
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: pokemon-カイロス
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: pokemon-ケンタロス
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: pokemon-コイキング
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: pokemon-ギャラドス
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: pokemon-ラプラス
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: pokemon-メタモン
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: pokemon-イーブイ
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: pokemon-シャワーズ
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: pokemon-サンダース
+    src: http://i.imgur.com/my4fdKU.png
+  - name: pokemon-ブースター
+    src: http://i.imgur.com/9IoE33v.png
+  - name: pokemon-ポリゴン
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: pokemon-オムナイト
+    src: http://i.imgur.com/kX5obKw.png
+  - name: pokemon-オムスター
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: pokemon-カブト
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: pokemon-カブトプス
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: pokemon-プテラ
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: pokemon-カビゴン
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: pokemon-フリーザー
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: pokemon-サンダー
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: pokemon-ファイヤー
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: pokemon-ミニリュウ
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: pokemon-ハクリュー
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: pokemon-カイリュー
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: pokemon-ミュウツー
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: pokemon-ミュウ
+    src: http://i.imgur.com/5n3F79K.png
+  - name: pokemon-riolu
+    src: http://i.imgur.com/HPYzUSy.png

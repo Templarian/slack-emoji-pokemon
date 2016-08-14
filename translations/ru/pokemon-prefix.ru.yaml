@@ -1,0 +1,306 @@
+title: pokemon-prefix
+emojis:
+  - name: pokemon-бульбазавр
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: pokemon-айвизавр
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: pokemon-венузавр
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: pokemon-чармандер
+    src: http://i.imgur.com/jee6nD3.png
+  - name: pokemon-чармелеон
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: pokemon-чаризард
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: pokemon-сквиртл
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: pokemon-вартортл
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: pokemon-бластойз
+    src: http://i.imgur.com/YY1opfi.png
+  - name: pokemon-катерпи
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: pokemon-метапод
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: pokemon-баттерфри
+    src: http://i.imgur.com/hQAWSog.png
+  - name: pokemon-видл
+    src: http://i.imgur.com/t3J27X2.png
+  - name: pokemon-какуна
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: pokemon-бидрилл
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: pokemon-пиджи
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: pokemon-пиджеотто
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: pokemon-пиджеот
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: pokemon-раттата
+    src: http://i.imgur.com/bTejs34.png
+  - name: pokemon-ратикейт
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: pokemon-спироу
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: pokemon-фироу
+    src: http://i.imgur.com/LObFh67.png
+  - name: pokemon-эканс
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: pokemon-арбок
+    src: http://i.imgur.com/sbshBkp.png
+  - name: pokemon-пикачу
+    src: http://i.imgur.com/d8zj42u.png
+  - name: pokemon-райчу
+    src: http://i.imgur.com/cX0wvid.png
+  - name: pokemon-сэндшрю
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: pokemon-сэндслэш
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: pokemon-нидоран♀
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: pokemon-нидорина
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: pokemon-нидоквин
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: pokemon-нидоран♂
+    src: http://i.imgur.com/GRMydJg.png
+  - name: pokemon-нидорино
+    src: http://i.imgur.com/XtN73fs.png
+  - name: pokemon-нидокинг
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: pokemon-клефэйри
+    src: http://i.imgur.com/z8n0knm.png
+  - name: pokemon-клефейбл
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: pokemon-валпикс
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: pokemon-найнтэйлс
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: pokemon-джигглипафф
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: pokemon-вигглитафф
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: pokemon-зубат
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: pokemon-голбат
+    src: http://i.imgur.com/muZnJwl.png
+  - name: pokemon-оддиш
+    src: http://i.imgur.com/ng75ubV.png
+  - name: pokemon-глум
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: pokemon-вайлплюм
+    src: http://i.imgur.com/QipChtU.png
+  - name: pokemon-парас
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: pokemon-парасект
+    src: http://i.imgur.com/TTm83oB.png
+  - name: pokemon-венонат
+    src: http://i.imgur.com/rK55R0R.png
+  - name: pokemon-веномот
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: pokemon-диглетт
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: pokemon-дагтрио
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: pokemon-мяут
+    src: http://i.imgur.com/VBO9q67.png
+  - name: pokemon-персиан
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: pokemon-псайдак
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: pokemon-голдак
+    src: http://i.imgur.com/6elJIqf.png
+  - name: pokemon-манки
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: pokemon-праймейп
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: pokemon-гроулит
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: pokemon-арканайн
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: pokemon-поливаг
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: pokemon-поливирл
+    src: http://i.imgur.com/LstLmxR.png
+  - name: pokemon-поливрат
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: pokemon-абра
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: pokemon-кадабра
+    src: http://i.imgur.com/MImxjGE.png
+  - name: pokemon-алаказам
+    src: http://i.imgur.com/39ffQOc.png
+  - name: pokemon-мачоп
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: pokemon-мачоук
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: pokemon-мачамп
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: pokemon-беллспраут
+    src: http://i.imgur.com/z9GIhur.png
+  - name: pokemon-випинбелл
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: pokemon-виктрибел
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: pokemon-тентакул
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: pokemon-тентакрул
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: pokemon-геодуд
+    src: http://i.imgur.com/7stN60U.png
+  - name: pokemon-гравелер
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: pokemon-голем
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: pokemon-понита
+    src: http://i.imgur.com/QOAowzP.png
+  - name: pokemon-рапидаш
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: pokemon-слоупок
+    src: http://i.imgur.com/JHOjICn.png
+  - name: pokemon-слоубро
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: pokemon-магнемайт
+    src: http://i.imgur.com/9838phS.png
+  - name: pokemon-магнетон
+    src: http://i.imgur.com/3bLL11M.png
+  - name: pokemon-farfetch
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: pokemon-додуо
+    src: http://i.imgur.com/kah8lVf.png
+  - name: pokemon-додрио
+    src: http://i.imgur.com/pplDPof.png
+  - name: pokemon-сил
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: pokemon-дьюгонг
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: pokemon-граймер
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: pokemon-мак
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: pokemon-шеллдер
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: pokemon-клойстер
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: pokemon-гастли
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: pokemon-хонтер
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: pokemon-генгар
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: pokemon-оникс
+    src: http://i.imgur.com/0VorWp9.png
+  - name: pokemon-драузи
+    src: http://i.imgur.com/0r60JJM.png
+  - name: pokemon-гипно
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: pokemon-крабби
+    src: http://i.imgur.com/jY95paa.png
+  - name: pokemon-кинглер
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: pokemon-волторб
+    src: http://i.imgur.com/HcFELhG.png
+  - name: pokemon-электрод
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: pokemon-эксегкьют
+    src: http://i.imgur.com/iR6uH27.png
+  - name: pokemon-экзегкьютор
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: pokemon-кьюбон
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: pokemon-маровак
+    src: http://i.imgur.com/UdDCob5.png
+  - name: pokemon-хитмонли
+    src: http://i.imgur.com/neZvjyS.png
+  - name: pokemon-хитмончан
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: pokemon-ликитанг
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: pokemon-коффинг
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: pokemon-визинг
+    src: http://i.imgur.com/AM4T75L.png
+  - name: pokemon-райхорн
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: pokemon-райдон
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: pokemon-ченси
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: pokemon-тангела
+    src: http://i.imgur.com/YifjSAL.png
+  - name: pokemon-кангасхан
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: pokemon-хорси
+    src: http://i.imgur.com/KPORG91.png
+  - name: pokemon-сидра
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: pokemon-голдин
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: pokemon-сикинг
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: pokemon-старью
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: pokemon-старми
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: pokemon-мистер майм
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: pokemon-скайтер
+    src: http://i.imgur.com/rRHori0.png
+  - name: pokemon-джинкс
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: pokemon-электабазз
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: pokemon-магмар
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: pokemon-пинсир
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: pokemon-таурос
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: pokemon-мэджикарп
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: pokemon-гиарадос
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: pokemon-лапрас
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: pokemon-дитто
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: pokemon-иви
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: pokemon-вапореон
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: pokemon-джолтеон
+    src: http://i.imgur.com/my4fdKU.png
+  - name: pokemon-флареон
+    src: http://i.imgur.com/9IoE33v.png
+  - name: pokemon-поригон
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: pokemon-оманайт
+    src: http://i.imgur.com/kX5obKw.png
+  - name: pokemon-омастар
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: pokemon-кабуто
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: pokemon-кабутопс
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: pokemon-аэродактиль
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: pokemon-снорлакс
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: pokemon-артикуно
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: pokemon-запдос
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: pokemon-молтрес
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: pokemon-дратини
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: pokemon-драгонэйр
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: pokemon-драгонайт
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: pokemon-мьюту
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: pokemon-мью
+    src: http://i.imgur.com/5n3F79K.png
+  - name: pokemon-riolu
+    src: http://i.imgur.com/HPYzUSy.png
