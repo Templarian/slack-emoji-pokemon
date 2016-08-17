@@ -1,0 +1,306 @@
+title: pokemon
+emojis:
+  - name: フシギダネ
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: フシギソウ
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: フシギバナ
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: ヒトカゲ
+    src: http://i.imgur.com/jee6nD3.png
+  - name: リザード
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: リザードン
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: ゼニガメ
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: カメール
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: カメックス
+    src: http://i.imgur.com/YY1opfi.png
+  - name: キャタピー
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: トランセル
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: バタフリー
+    src: http://i.imgur.com/hQAWSog.png
+  - name: ビードル
+    src: http://i.imgur.com/t3J27X2.png
+  - name: コクーン
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: スピアー
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: ポッポ
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: ピジョン
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: ピジョット
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: コラッタ
+    src: http://i.imgur.com/bTejs34.png
+  - name: ラッタ
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: オニスズメ
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: オニドリル
+    src: http://i.imgur.com/LObFh67.png
+  - name: アーボ
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: アーボック
+    src: http://i.imgur.com/sbshBkp.png
+  - name: ピカチュウ
+    src: http://i.imgur.com/d8zj42u.png
+  - name: ライチュウ
+    src: http://i.imgur.com/cX0wvid.png
+  - name: サンド
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: サンドパン
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: ニドラン♀
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: ニドリーナ
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: ニドクイン
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: ニドラン♂
+    src: http://i.imgur.com/GRMydJg.png
+  - name: ニドリーノ
+    src: http://i.imgur.com/XtN73fs.png
+  - name: ニドキング
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: ピッピ
+    src: http://i.imgur.com/z8n0knm.png
+  - name: ピクシー
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: ロコン
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: キュウコン
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: プリン
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: プクリン
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: ズバット
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: ゴルバット
+    src: http://i.imgur.com/muZnJwl.png
+  - name: ナゾノクサ
+    src: http://i.imgur.com/ng75ubV.png
+  - name: クサイハナ
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: ラフレシア
+    src: http://i.imgur.com/QipChtU.png
+  - name: パラス
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: パラセクト
+    src: http://i.imgur.com/TTm83oB.png
+  - name: コンパン
+    src: http://i.imgur.com/rK55R0R.png
+  - name: モルフォン
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: ディグダ
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: ダグトリオ
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: ニャース
+    src: http://i.imgur.com/VBO9q67.png
+  - name: ペルシアン
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: コダック
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: ゴルダック
+    src: http://i.imgur.com/6elJIqf.png
+  - name: マンキー
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: オコリザル
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: ガーディ
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: ウインディ
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: ニョロモ
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: ニョロゾ
+    src: http://i.imgur.com/LstLmxR.png
+  - name: ニョロボン
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: ケーシィ
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: ユンゲラー
+    src: http://i.imgur.com/MImxjGE.png
+  - name: フーディン
+    src: http://i.imgur.com/39ffQOc.png
+  - name: ワンリキー
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: ゴーリキー
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: カイリキー
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: マダツボミ
+    src: http://i.imgur.com/z9GIhur.png
+  - name: ウツドン
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: ウツボット
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: メノクラゲ
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: ドククラゲ
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: イシツブテ
+    src: http://i.imgur.com/7stN60U.png
+  - name: ゴローン
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: ゴローニャ
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: ポニータ
+    src: http://i.imgur.com/QOAowzP.png
+  - name: ギャロップ
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: ヤドン
+    src: http://i.imgur.com/JHOjICn.png
+  - name: ヤドラン
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: コイル
+    src: http://i.imgur.com/9838phS.png
+  - name: レアコイル
+    src: http://i.imgur.com/3bLL11M.png
+  - name: farfetch
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: ドードー
+    src: http://i.imgur.com/kah8lVf.png
+  - name: ドードリオ
+    src: http://i.imgur.com/pplDPof.png
+  - name: パウワウ
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: ジュゴン
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: ベトベター
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: ベトベトン
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: シェルダー
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: パルシェン
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: ゴース
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: ゴースト
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: ゲンガー
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: イワーク
+    src: http://i.imgur.com/0VorWp9.png
+  - name: スリープ
+    src: http://i.imgur.com/0r60JJM.png
+  - name: スリーパー
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: クラブ
+    src: http://i.imgur.com/jY95paa.png
+  - name: キングラー
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: ビリリダマ
+    src: http://i.imgur.com/HcFELhG.png
+  - name: マルマイン
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: タマタマ
+    src: http://i.imgur.com/iR6uH27.png
+  - name: ナッシー
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: カラカラ
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: ガラガラ
+    src: http://i.imgur.com/UdDCob5.png
+  - name: サワムラー
+    src: http://i.imgur.com/neZvjyS.png
+  - name: エビワラー
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: ベロリンガ
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: ドガース
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: マタドガス
+    src: http://i.imgur.com/AM4T75L.png
+  - name: サイホーン
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: サイドン
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: ラッキー
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: モンジャラ
+    src: http://i.imgur.com/YifjSAL.png
+  - name: ガルーラ
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: タッツー
+    src: http://i.imgur.com/KPORG91.png
+  - name: シードラ
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: トサキント
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: アズマオウ
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: ヒトデマン
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: スターミー
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: バリヤード
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: ストライク
+    src: http://i.imgur.com/rRHori0.png
+  - name: ルージュラ
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: エレブー
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: ブーバー
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: カイロス
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: ケンタロス
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: コイキング
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: ギャラドス
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: ラプラス
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: メタモン
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: イーブイ
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: シャワーズ
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: サンダース
+    src: http://i.imgur.com/my4fdKU.png
+  - name: ブースター
+    src: http://i.imgur.com/9IoE33v.png
+  - name: ポリゴン
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: オムナイト
+    src: http://i.imgur.com/kX5obKw.png
+  - name: オムスター
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: カブト
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: カブトプス
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: プテラ
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: カビゴン
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: フリーザー
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: サンダー
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: ファイヤー
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: ミニリュウ
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: ハクリュー
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: カイリュー
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: ミュウツー
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: ミュウ
+    src: http://i.imgur.com/5n3F79K.png
+  - name: riolu
+    src: http://i.imgur.com/HPYzUSy.png

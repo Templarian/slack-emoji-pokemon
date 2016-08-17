@@ -1,0 +1,19 @@
+{
+  "name": "slack-emoji-pokemon",
+  "version": "1.0.0",
+  "description": "This project works best with [lambtron/emojipacks](https://github.com/lambtron/emojipacks). No need to clone, just use the raw URLs for YAML files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Templarian/slack-emoji-pokemon.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Templarian/slack-emoji-pokemon/issues"
+  },
+  "homepage": "https://github.com/Templarian/slack-emoji-pokemon#readme",
+  "devDependencies": {
+    "pokemon": "latest"
+  }
+}
