@@ -17,7 +17,10 @@ Or the less recommended approach is to upload each by hand from the `emojis` fol
 
 ## Translations
 
-[French](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon.fr.yaml) ([Prefixed pokemon-*](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon-prefix.fr.yaml))
+- [French](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon.fr.yaml) ([Prefixed pokemon-*](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/fr/pokemon-prefix.fr.yaml))
+- [German](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/de/pokemon.de.yaml) ([Prefixed pokemon-*](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/de/pokemon-prefix.de.yaml))
+- [Russian](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/ru/pokemon.ru.yaml) ([Prefixed pokemon-*](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/ru/pokemon-prefix.ru.yaml))
+- [Japanese](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/ja/pokemon.ja.yaml) ([Prefixed pokemon-*](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/translations/ja/pokemon-prefix.ja.yaml))
 
 If you want to add an additonal translation please create a pull request with the folder `translations/__`.
 
