@@ -1,0 +1,306 @@
+title: pokemon
+emojis:
+  - name: 妙蛙種子
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: 妙蛙草
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: 妙蛙花
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: 小火龍
+    src: http://i.imgur.com/jee6nD3.png
+  - name: 火恐龍
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: 噴火龍
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: 傑尼龜
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: 卡咪龜
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: 水箭龜
+    src: http://i.imgur.com/YY1opfi.png
+  - name: 綠毛蟲
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: 鐵甲蛹
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: 巴大蝶
+    src: http://i.imgur.com/hQAWSog.png
+  - name: 獨角蟲
+    src: http://i.imgur.com/t3J27X2.png
+  - name: 鐵殼蛹
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: 大針蜂
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: 波波
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: 比比鳥
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: 大比鳥
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: 小拉達
+    src: http://i.imgur.com/bTejs34.png
+  - name: 拉達
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: 烈雀
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: 大嘴雀
+    src: http://i.imgur.com/LObFh67.png
+  - name: 阿柏蛇
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: 阿柏怪
+    src: http://i.imgur.com/sbshBkp.png
+  - name: 皮卡丘
+    src: http://i.imgur.com/d8zj42u.png
+  - name: 雷丘
+    src: http://i.imgur.com/cX0wvid.png
+  - name: 穿山鼠
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: 穿山王
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: 尼多蘭
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: 尼多娜
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: 尼多后
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: 尼多朗
+    src: http://i.imgur.com/GRMydJg.png
+  - name: 尼多力諾
+    src: http://i.imgur.com/XtN73fs.png
+  - name: 尼多王
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: 皮皮
+    src: http://i.imgur.com/z8n0knm.png
+  - name: 皮可西
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: 六尾
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: 九尾
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: 胖丁
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: 胖可丁
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: 超音蝠
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: 大嘴蝠
+    src: http://i.imgur.com/muZnJwl.png
+  - name: 走路草
+    src: http://i.imgur.com/ng75ubV.png
+  - name: 臭臭花
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: 霸王花
+    src: http://i.imgur.com/QipChtU.png
+  - name: 派拉斯
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: 派拉斯特
+    src: http://i.imgur.com/TTm83oB.png
+  - name: 毛球
+    src: http://i.imgur.com/rK55R0R.png
+  - name: 摩魯蛾
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: 地鼠
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: 三地鼠
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: 喵喵
+    src: http://i.imgur.com/VBO9q67.png
+  - name: 貓老大
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: 可達鴨
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: 哥達鴨
+    src: http://i.imgur.com/6elJIqf.png
+  - name: 猴怪
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: 火爆猴
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: 卡蒂狗
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: 風速狗
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: 蚊香蝌蚪
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: 蚊香君
+    src: http://i.imgur.com/LstLmxR.png
+  - name: 蚊香泳士
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: 凱西
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: 勇基拉
+    src: http://i.imgur.com/MImxjGE.png
+  - name: 胡地
+    src: http://i.imgur.com/39ffQOc.png
+  - name: 腕力
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: 豪力
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: 怪力
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: 喇叭芽
+    src: http://i.imgur.com/z9GIhur.png
+  - name: 口呆花
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: 大食花
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: 瑪瑙水母
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: 毒刺水母
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: 小拳石
+    src: http://i.imgur.com/7stN60U.png
+  - name: 隆隆石
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: 隆隆岩
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: 小火馬
+    src: http://i.imgur.com/QOAowzP.png
+  - name: 烈焰馬
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: 呆呆獸
+    src: http://i.imgur.com/JHOjICn.png
+  - name: 呆殼獸
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: 小磁怪
+    src: http://i.imgur.com/9838phS.png
+  - name: 三合一磁怪
+    src: http://i.imgur.com/3bLL11M.png
+  - name: 大蔥鴨
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: 嘟嘟
+    src: http://i.imgur.com/kah8lVf.png
+  - name: 嘟嘟利
+    src: http://i.imgur.com/pplDPof.png
+  - name: 小海獅
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: 白海獅
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: 臭泥
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: 臭臭泥
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: 大舌貝
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: 刺甲貝
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: 鬼斯
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: 鬼斯通
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: 耿鬼
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: 大岩蛇
+    src: http://i.imgur.com/0VorWp9.png
+  - name: 催眠貘
+    src: http://i.imgur.com/0r60JJM.png
+  - name: 引夢貘人
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: 大鉗蟹
+    src: http://i.imgur.com/jY95paa.png
+  - name: 巨鉗蟹
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: 霹靂電球
+    src: http://i.imgur.com/HcFELhG.png
+  - name: 頑皮雷彈
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: 蛋蛋
+    src: http://i.imgur.com/iR6uH27.png
+  - name: 椰蛋樹
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: 卡拉卡拉
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: 嘎啦嘎啦
+    src: http://i.imgur.com/UdDCob5.png
+  - name: 飛腿郎
+    src: http://i.imgur.com/neZvjyS.png
+  - name: 快拳郎
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: 大舌頭
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: 瓦斯彈
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: 雙彈瓦斯
+    src: http://i.imgur.com/AM4T75L.png
+  - name: 獨角犀牛
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: 鑽角犀獸
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: 吉利蛋
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: 蔓藤怪
+    src: http://i.imgur.com/YifjSAL.png
+  - name: 袋獸
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: 墨海馬
+    src: http://i.imgur.com/KPORG91.png
+  - name: 海刺龍
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: 角金魚
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: 金魚王
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: 海星星
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: 寶石海星
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: 魔牆人偶
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: 飛天螳螂
+    src: http://i.imgur.com/rRHori0.png
+  - name: 迷唇姐
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: 電擊獸
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: 鴨嘴火獸
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: 凱羅斯
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: 肯泰羅
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: 鯉魚王
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: 暴鯉龍
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: 拉普拉斯
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: 百變怪
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: 伊布
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: 水伊布
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: 雷伊布
+    src: http://i.imgur.com/my4fdKU.png
+  - name: 火伊布
+    src: http://i.imgur.com/9IoE33v.png
+  - name: 多邊獸
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: 菊石獸
+    src: http://i.imgur.com/kX5obKw.png
+  - name: 多刺菊石獸
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: 化石盔
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: 鐮刀盔
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: 化石翼龍
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: 卡比獸
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: 急凍鳥
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: 閃電鳥
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: 火焰鳥
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: 迷你龍
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: 哈克龍
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: 快龍
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: 超夢
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: 夢幻
+    src: http://i.imgur.com/5n3F79K.png
+  - name: 利歐路
+    src: http://i.imgur.com/HPYzUSy.png

@@ -1,0 +1,306 @@
+title: pokemon-prefix
+emojis:
+  - name: pokemon-妙蛙種子
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: pokemon-妙蛙草
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: pokemon-妙蛙花
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: pokemon-小火龍
+    src: http://i.imgur.com/jee6nD3.png
+  - name: pokemon-火恐龍
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: pokemon-噴火龍
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: pokemon-傑尼龜
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: pokemon-卡咪龜
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: pokemon-水箭龜
+    src: http://i.imgur.com/YY1opfi.png
+  - name: pokemon-綠毛蟲
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: pokemon-鐵甲蛹
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: pokemon-巴大蝶
+    src: http://i.imgur.com/hQAWSog.png
+  - name: pokemon-獨角蟲
+    src: http://i.imgur.com/t3J27X2.png
+  - name: pokemon-鐵殼蛹
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: pokemon-大針蜂
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: pokemon-波波
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: pokemon-比比鳥
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: pokemon-大比鳥
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: pokemon-小拉達
+    src: http://i.imgur.com/bTejs34.png
+  - name: pokemon-拉達
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: pokemon-烈雀
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: pokemon-大嘴雀
+    src: http://i.imgur.com/LObFh67.png
+  - name: pokemon-阿柏蛇
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: pokemon-阿柏怪
+    src: http://i.imgur.com/sbshBkp.png
+  - name: pokemon-皮卡丘
+    src: http://i.imgur.com/d8zj42u.png
+  - name: pokemon-雷丘
+    src: http://i.imgur.com/cX0wvid.png
+  - name: pokemon-穿山鼠
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: pokemon-穿山王
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: pokemon-尼多蘭
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: pokemon-尼多娜
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: pokemon-尼多后
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: pokemon-尼多朗
+    src: http://i.imgur.com/GRMydJg.png
+  - name: pokemon-尼多力諾
+    src: http://i.imgur.com/XtN73fs.png
+  - name: pokemon-尼多王
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: pokemon-皮皮
+    src: http://i.imgur.com/z8n0knm.png
+  - name: pokemon-皮可西
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: pokemon-六尾
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: pokemon-九尾
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: pokemon-胖丁
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: pokemon-胖可丁
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: pokemon-超音蝠
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: pokemon-大嘴蝠
+    src: http://i.imgur.com/muZnJwl.png
+  - name: pokemon-走路草
+    src: http://i.imgur.com/ng75ubV.png
+  - name: pokemon-臭臭花
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: pokemon-霸王花
+    src: http://i.imgur.com/QipChtU.png
+  - name: pokemon-派拉斯
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: pokemon-派拉斯特
+    src: http://i.imgur.com/TTm83oB.png
+  - name: pokemon-毛球
+    src: http://i.imgur.com/rK55R0R.png
+  - name: pokemon-摩魯蛾
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: pokemon-地鼠
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: pokemon-三地鼠
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: pokemon-喵喵
+    src: http://i.imgur.com/VBO9q67.png
+  - name: pokemon-貓老大
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: pokemon-可達鴨
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: pokemon-哥達鴨
+    src: http://i.imgur.com/6elJIqf.png
+  - name: pokemon-猴怪
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: pokemon-火爆猴
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: pokemon-卡蒂狗
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: pokemon-風速狗
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: pokemon-蚊香蝌蚪
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: pokemon-蚊香君
+    src: http://i.imgur.com/LstLmxR.png
+  - name: pokemon-蚊香泳士
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: pokemon-凱西
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: pokemon-勇基拉
+    src: http://i.imgur.com/MImxjGE.png
+  - name: pokemon-胡地
+    src: http://i.imgur.com/39ffQOc.png
+  - name: pokemon-腕力
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: pokemon-豪力
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: pokemon-怪力
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: pokemon-喇叭芽
+    src: http://i.imgur.com/z9GIhur.png
+  - name: pokemon-口呆花
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: pokemon-大食花
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: pokemon-瑪瑙水母
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: pokemon-毒刺水母
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: pokemon-小拳石
+    src: http://i.imgur.com/7stN60U.png
+  - name: pokemon-隆隆石
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: pokemon-隆隆岩
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: pokemon-小火馬
+    src: http://i.imgur.com/QOAowzP.png
+  - name: pokemon-烈焰馬
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: pokemon-呆呆獸
+    src: http://i.imgur.com/JHOjICn.png
+  - name: pokemon-呆殼獸
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: pokemon-小磁怪
+    src: http://i.imgur.com/9838phS.png
+  - name: pokemon-三合一磁怪
+    src: http://i.imgur.com/3bLL11M.png
+  - name: pokemon-大蔥鴨
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: pokemon-嘟嘟
+    src: http://i.imgur.com/kah8lVf.png
+  - name: pokemon-嘟嘟利
+    src: http://i.imgur.com/pplDPof.png
+  - name: pokemon-小海獅
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: pokemon-白海獅
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: pokemon-臭泥
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: pokemon-臭臭泥
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: pokemon-大舌貝
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: pokemon-刺甲貝
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: pokemon-鬼斯
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: pokemon-鬼斯通
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: pokemon-耿鬼
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: pokemon-大岩蛇
+    src: http://i.imgur.com/0VorWp9.png
+  - name: pokemon-催眠貘
+    src: http://i.imgur.com/0r60JJM.png
+  - name: pokemon-引夢貘人
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: pokemon-大鉗蟹
+    src: http://i.imgur.com/jY95paa.png
+  - name: pokemon-巨鉗蟹
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: pokemon-霹靂電球
+    src: http://i.imgur.com/HcFELhG.png
+  - name: pokemon-頑皮雷彈
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: pokemon-蛋蛋
+    src: http://i.imgur.com/iR6uH27.png
+  - name: pokemon-椰蛋樹
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: pokemon-卡拉卡拉
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: pokemon-嘎啦嘎啦
+    src: http://i.imgur.com/UdDCob5.png
+  - name: pokemon-飛腿郎
+    src: http://i.imgur.com/neZvjyS.png
+  - name: pokemon-快拳郎
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: pokemon-大舌頭
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: pokemon-瓦斯彈
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: pokemon-雙彈瓦斯
+    src: http://i.imgur.com/AM4T75L.png
+  - name: pokemon-獨角犀牛
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: pokemon-鑽角犀獸
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: pokemon-吉利蛋
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: pokemon-蔓藤怪
+    src: http://i.imgur.com/YifjSAL.png
+  - name: pokemon-袋獸
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: pokemon-墨海馬
+    src: http://i.imgur.com/KPORG91.png
+  - name: pokemon-海刺龍
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: pokemon-角金魚
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: pokemon-金魚王
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: pokemon-海星星
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: pokemon-寶石海星
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: pokemon-魔牆人偶
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: pokemon-飛天螳螂
+    src: http://i.imgur.com/rRHori0.png
+  - name: pokemon-迷唇姐
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: pokemon-電擊獸
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: pokemon-鴨嘴火獸
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: pokemon-凱羅斯
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: pokemon-肯泰羅
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: pokemon-鯉魚王
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: pokemon-暴鯉龍
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: pokemon-拉普拉斯
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: pokemon-百變怪
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: pokemon-伊布
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: pokemon-水伊布
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: pokemon-雷伊布
+    src: http://i.imgur.com/my4fdKU.png
+  - name: pokemon-火伊布
+    src: http://i.imgur.com/9IoE33v.png
+  - name: pokemon-多邊獸
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: pokemon-菊石獸
+    src: http://i.imgur.com/kX5obKw.png
+  - name: pokemon-多刺菊石獸
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: pokemon-化石盔
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: pokemon-鐮刀盔
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: pokemon-化石翼龍
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: pokemon-卡比獸
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: pokemon-急凍鳥
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: pokemon-閃電鳥
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: pokemon-火焰鳥
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: pokemon-迷你龍
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: pokemon-哈克龍
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: pokemon-快龍
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: pokemon-超夢
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: pokemon-夢幻
+    src: http://i.imgur.com/5n3F79K.png
+  - name: pokemon-利歐路
+    src: http://i.imgur.com/HPYzUSy.png
