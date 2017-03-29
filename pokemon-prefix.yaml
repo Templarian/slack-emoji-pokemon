@@ -304,3 +304,203 @@ emojis:
     src: http://i.imgur.com/5n3F79K.png
   - name: pokemon-riolu
     src: http://i.imgur.com/HPYzUSy.png
+  - name: pokemon-chikorita
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chikorita.png
+  - name: pokemon-bayleef
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bayleef.png
+  - name: pokemon-meganium
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/meganium.png
+  - name: pokemon-cyndaquil
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cyndaquil.png
+  - name: pokemon-quilava
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/quilava.png
+  - name: pokemon-typhlosion
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/typhlosion.png
+  - name: pokemon-totodile
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/totodile.png
+  - name: pokemon-croconaw
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/croconaw.png
+  - name: pokemon-feraligatr
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/feraligatr.png
+  - name: pokemon-sentret
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sentret.png
+  - name: pokemon-furret
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/furret.png
+  - name: pokemon-hoothoot
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hoothoot.png
+  - name: pokemon-noctowl
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/noctowl.png
+  - name: pokemon-ledyba
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ledyba.png
+  - name: pokemon-ledian
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ledian.png
+  - name: pokemon-spinarak
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/spinarak.png
+  - name: pokemon-ariados
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ariados.png
+  - name: pokemon-crobat
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/crobat.png
+  - name: pokemon-chinchou
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chinchou.png
+  - name: pokemon-lanturn
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lanturn.png
+  - name: pokemon-pichu
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pichu.png
+  - name: pokemon-cleffa
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cleffa.png
+  - name: pokemon-igglybuff
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/igglybuff.png
+  - name: pokemon-togepi
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/togepi.png
+  - name: pokemon-togetic
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/togetic.png
+  - name: pokemon-natu
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/natu.png
+  - name: pokemon-xatu
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/xatu.png
+  - name: pokemon-mareep
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mareep.png
+  - name: pokemon-flaaffy
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/flaaffy.png
+  - name: pokemon-ampharos
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ampharos.png
+  - name: pokemon-bellossom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bellossom.png
+  - name: pokemon-marill
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/marill.png
+  - name: pokemon-azumarill
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/azumarill.png
+  - name: pokemon-sudowoodo
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sudowoodo.png
+  - name: pokemon-politoed
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/politoed.png
+  - name: pokemon-hoppip
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hoppip.png
+  - name: pokemon-skiploom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/skiploom.png
+  - name: pokemon-jumpluff
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/jumpluff.png
+  - name: pokemon-aipom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/aipom.png
+  - name: pokemon-sunkern
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sunkern.png
+  - name: pokemon-sunflora
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sunflora.png
+  - name: pokemon-yanma
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/yanma.png
+  - name: pokemon-wooper
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wooper.png
+  - name: pokemon-quagsire
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/quagsire.png
+  - name: pokemon-espeon
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/espeon.png
+  - name: pokemon-umbreon
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/umbreon.png
+  - name: pokemon-murkrow
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/murkrow.png
+  - name: pokemon-slowking
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/slowking.png
+  - name: pokemon-misdreavus
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/misdreavus.png
+  - name: pokemon-unown
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/unown.png
+  - name: pokemon-wobbuffet
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wobbuffet.png
+  - name: pokemon-girafarig
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/girafarig.png
+  - name: pokemon-pineco
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pineco.png
+  - name: pokemon-forretress
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/forretress.png
+  - name: pokemon-dunsparce
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/dunsparce.png
+  - name: pokemon-gligar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/gligar.png
+  - name: pokemon-steelix
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/steelix.png
+  - name: pokemon-snubbull
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/snubbull.png
+  - name: pokemon-granbull
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/granbull.png
+  - name: pokemon-qwilfish
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/qwilfish.png
+  - name: pokemon-scizor
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/scizor.png
+  - name: pokemon-shuckle
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/shuckle.png
+  - name: pokemon-heracross
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/heracross.png
+  - name: pokemon-sneasel
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sneasel.png
+  - name: pokemon-teddiursa
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/teddiursa.png
+  - name: pokemon-ursaring
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ursaring.png
+  - name: pokemon-slugma
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/slugma.png
+  - name: pokemon-magcargo
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magcargo.png
+  - name: pokemon-swinub
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/swinub.png
+  - name: pokemon-piloswine
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/piloswine.png
+  - name: pokemon-corsola
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/corsola.png
+  - name: pokemon-remoraid
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/remoraid.png
+  - name: pokemon-octillery
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/octillery.png
+  - name: pokemon-delibird
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/delibird.png
+  - name: pokemon-mantine
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mantine.png
+  - name: pokemon-skarmory
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/skarmory.png
+  - name: pokemon-houndour
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndour.png
+  - name: pokemon-houndoom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndoom.png
+  - name: pokemon-kingdra
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/kingdra.png
+  - name: pokemon-phanpy
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/phanpy.png
+  - name: pokemon-donphan
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/donphan.png
+  - name: pokemon-porygon2
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/porygon2.png
+  - name: pokemon-stantler
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/stantler.png
+  - name: pokemon-smeargle
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/smeargle.png
+  - name: pokemon-tyrogue
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tyrogue.png
+  - name: pokemon-hitmontop
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hitmontop.png
+  - name: pokemon-smoochum
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/smoochum.png
+  - name: pokemon-elekid
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/elekid.png
+  - name: pokemon-magby
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magby.png
+  - name: pokemon-miltank
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/miltank.png
+  - name: pokemon-blissey
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blissey.png
+  - name: pokemon-raikou
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/raikou.png
+  - name: pokemon-entei
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/entei.png
+  - name: pokemon-suicune
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/suicune.png
+  - name: pokemon-larvitar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/larvitar.png
+  - name: pokemon-pupitar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pupitar.png
+  - name: pokemon-tyranitar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tyranitar.png
+  - name: pokemon-lugia
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lugia.png
+  - name: pokemon-ho-oh
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ho-oh.png
+  - name: pokemon-celebi
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/celebi.png
