@@ -304,3 +304,606 @@ emojis:
     src: http://i.imgur.com/5n3F79K.png
   - name: riolu
     src: http://i.imgur.com/HPYzUSy.png
+  - name: chikorita
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chikorita.png
+  - name: bayleef
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bayleef.png
+  - name: meganium
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/meganium.png
+  - name: cyndaquil
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cyndaquil.png
+  - name: quilava
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/quilava.png
+  - name: typhlosion
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/typhlosion.png
+  - name: totodile
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/totodile.png
+  - name: croconaw
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/croconaw.png
+  - name: feraligatr
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/feraligatr.png
+  - name: sentret
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sentret.png
+  - name: furret
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/furret.png
+  - name: hoothoot
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hoothoot.png
+  - name: noctowl
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/noctowl.png
+  - name: ledyba
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ledyba.png
+  - name: ledian
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ledian.png
+  - name: spinarak
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/spinarak.png
+  - name: ariados
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ariados.png
+  - name: crobat
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/crobat.png
+  - name: chinchou
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chinchou.png
+  - name: lanturn
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lanturn.png
+  - name: pichu
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pichu.png
+  - name: cleffa
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cleffa.png
+  - name: igglybuff
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/igglybuff.png
+  - name: togepi
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/togepi.png
+  - name: togetic
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/togetic.png
+  - name: natu
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/natu.png
+  - name: xatu
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/xatu.png
+  - name: mareep
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mareep.png
+  - name: flaaffy
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/flaaffy.png
+  - name: ampharos
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ampharos.png
+  - name: bellossom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bellossom.png
+  - name: marill
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/marill.png
+  - name: azumarill
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/azumarill.png
+  - name: sudowoodo
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sudowoodo.png
+  - name: politoed
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/politoed.png
+  - name: hoppip
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hoppip.png
+  - name: skiploom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/skiploom.png
+  - name: jumpluff
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/jumpluff.png
+  - name: aipom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/aipom.png
+  - name: sunkern
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sunkern.png
+  - name: sunflora
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sunflora.png
+  - name: yanma
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/yanma.png
+  - name: wooper
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wooper.png
+  - name: quagsire
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/quagsire.png
+  - name: espeon
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/espeon.png
+  - name: umbreon
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/umbreon.png
+  - name: murkrow
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/murkrow.png
+  - name: slowking
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/slowking.png
+  - name: misdreavus
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/misdreavus.png
+  - name: unown
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/unown.png
+  - name: wobbuffet
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wobbuffet.png
+  - name: girafarig
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/girafarig.png
+  - name: pineco
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pineco.png
+  - name: forretress
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/forretress.png
+  - name: dunsparce
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/dunsparce.png
+  - name: gligar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/gligar.png
+  - name: steelix
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/steelix.png
+  - name: snubbull
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/snubbull.png
+  - name: granbull
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/granbull.png
+  - name: qwilfish
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/qwilfish.png
+  - name: scizor
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/scizor.png
+  - name: shuckle
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/shuckle.png
+  - name: heracross
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/heracross.png
+  - name: sneasel
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sneasel.png
+  - name: teddiursa
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/teddiursa.png
+  - name: ursaring
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ursaring.png
+  - name: slugma
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/slugma.png
+  - name: magcargo
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magcargo.png
+  - name: swinub
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/swinub.png
+  - name: piloswine
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/piloswine.png
+  - name: corsola
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/corsola.png
+  - name: remoraid
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/remoraid.png
+  - name: octillery
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/octillery.png
+  - name: delibird
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/delibird.png
+  - name: mantine
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mantine.png
+  - name: skarmory
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/skarmory.png
+  - name: houndour
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndour.png
+  - name: houndoom
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndoom.png
+  - name: kingdra
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/kingdra.png
+  - name: phanpy
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/phanpy.png
+  - name: donphan
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/donphan.png
+  - name: porygon2
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/porygon2.png
+  - name: stantler
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/stantler.png
+  - name: smeargle
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/smeargle.png
+  - name: tyrogue
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tyrogue.png
+  - name: hitmontop
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hitmontop.png
+  - name: smoochum
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/smoochum.png
+  - name: elekid
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/elekid.png
+  - name: magby
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magby.png
+  - name: miltank
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/miltank.png
+  - name: blissey
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blissey.png
+  - name: raikou
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/raikou.png
+  - name: entei
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/entei.png
+  - name: suicune
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/suicune.png
+  - name: larvitar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/larvitar.png
+  - name: pupitar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pupitar.png
+  - name: tyranitar
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tyranitar.png
+  - name: lugia
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lugia.png
+  - name: ho-oh
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ho-oh.png
+  - name: celebi
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/celebi.png
+
+
+  - name: chikorita
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/152.png
+  - name: bayleef
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/153.png
+  - name: meganium
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/154.png
+  - name: cyndaquil
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/155.png
+  - name: quilava
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/156.png
+  - name: typhlosion
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/157.png
+  - name: totodile
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/158.png
+  - name: croconaw
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/159.png
+  - name: feraligatr
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/160.png
+  - name: sentret
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/161.png
+  - name: furret
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/162.png
+  - name: hoothoot
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/163.png
+  - name: noctowl
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/164.png
+  - name: ledyba
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/165.png
+  - name: ledian
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/166.png
+  - name: spinarak
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/167.png
+  - name: ariados
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/168.png
+  - name: crobat
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/169.png
+  - name: chinchou
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/170.png
+  - name: lanturn
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/171.png
+  - name: pichu
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/172.png
+  - name: cleffa
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/173.png
+  - name: igglybuff
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/174.png
+  - name: togepi
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/175.png
+  - name: togetic
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/176.png
+  - name: natu
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/177.png
+  - name: xatu
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/178.png
+  - name: mareep
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/179.png
+  - name: flaaffy
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/180.png
+  - name: ampharos
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/181.png
+  - name: bellossom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/182.png
+  - name: marill
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/183.png
+  - name: azumarill
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/184.png
+  - name: sudowoodo
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/185.png
+  - name: politoed
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/186.png
+  - name: hoppip
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/187.png
+  - name: skiploom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/188.png
+  - name: jumpluff
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/189.png
+  - name: aipom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/190.png
+  - name: sunkern
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/191.png
+  - name: sunflora
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/192.png
+  - name: yanma
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/193.png
+  - name: wooper
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/194.png
+  - name: quagsire
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/195.png
+  - name: espeon
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/196.png
+  - name: umbreon
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/197.png
+  - name: murkrow
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/198.png
+  - name: slowking
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/199.png
+  - name: misdreavus
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/200.png
+  - name: unown
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/201.png
+  - name: wobbuffet
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/202.png
+  - name: girafarig
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/203.png
+  - name: pineco
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/204.png
+  - name: forretress
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/205.png
+  - name: dunsparce
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/206.png
+  - name: gligar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/207.png
+  - name: steelix
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/208.png
+  - name: snubbull
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/209.png
+  - name: granbull
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/210.png
+  - name: qwilfish
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/211.png
+  - name: scizor
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/212.png
+  - name: shuckle
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/213.png
+  - name: heracross
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/214.png
+  - name: sneasel
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/215.png
+  - name: teddiursa
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/216.png
+  - name: ursaring
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/217.png
+  - name: slugma
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/218.png
+  - name: magcargo
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/219.png
+  - name: swinub
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/220.png
+  - name: piloswine
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/221.png
+  - name: corsola
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/222.png
+  - name: remoraid
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/223.png
+  - name: octillery
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/224.png
+  - name: delibird
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/225.png
+  - name: mantine
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/226.png
+  - name: skarmory
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/227.png
+  - name: houndour
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/228.png
+  - name: houndoom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/229.png
+  - name: kingdra
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/230.png
+  - name: phanpy
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/231.png
+  - name: donphan
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/232.png
+  - name: porygon2
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/233.png
+  - name: stantler
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/234.png
+  - name: smeargle
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/235.png
+  - name: tyrogue
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/236.png
+  - name: hitmontop
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/237.png
+  - name: smoochum
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/238.png
+  - name: elekid
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/239.png
+  - name: magby
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/240.png
+  - name: miltank
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/241.png
+  - name: blissey
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/242.png
+  - name: raikou
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/243.png
+  - name: entei
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/244.png
+  - name: suicune
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/245.png
+  - name: larvitar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/246.png
+  - name: pupitar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/247.png
+  - name: tyranitar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/248.png
+  - name: lugia
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/249.png
+  - name: ho-oh
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/250.png
+  - name: celebi
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/251.png
+
+  - name: chikorita
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/152.png
+  - name: bayleef
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/153.png
+  - name: meganium
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/154.png
+  - name: cyndaquil
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/155.png
+  - name: quilava
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/156.png
+  - name: typhlosion
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/157.png
+  - name: totodile
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/158.png
+  - name: croconaw
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/159.png
+  - name: feraligatr
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/160.png
+  - name: sentret
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/161.png
+  - name: furret
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/162.png
+  - name: hoothoot
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/163.png
+  - name: noctowl
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/164.png
+  - name: ledyba
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/165.png
+  - name: ledian
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/166.png
+  - name: spinarak
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/167.png
+  - name: ariados
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/168.png
+  - name: crobat
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/169.png
+  - name: chinchou
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/170.png
+  - name: lanturn
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/171.png
+  - name: pichu
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/172.png
+  - name: cleffa
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/173.png
+  - name: igglybuff
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/174.png
+  - name: togepi
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/175.png
+  - name: togetic
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/176.png
+  - name: natu
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/177.png
+  - name: xatu
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/178.png
+  - name: mareep
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/179.png
+  - name: flaaffy
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/180.png
+  - name: ampharos
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/181.png
+  - name: bellossom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/182.png
+  - name: marill
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/183.png
+  - name: azumarill
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/184.png
+  - name: sudowoodo
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/185.png
+  - name: politoed
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/186.png
+  - name: hoppip
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/187.png
+  - name: skiploom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/188.png
+  - name: jumpluff
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/189.png
+  - name: aipom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/190.png
+  - name: sunkern
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/191.png
+  - name: sunflora
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/192.png
+  - name: yanma
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/193.png
+  - name: wooper
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/194.png
+  - name: quagsire
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/195.png
+  - name: espeon
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/196.png
+  - name: umbreon
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/197.png
+  - name: murkrow
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/198.png
+  - name: slowking
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/199.png
+  - name: misdreavus
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/200.png
+  - name: unown
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/201.png
+  - name: wobbuffet
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/202.png
+  - name: girafarig
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/203.png
+  - name: pineco
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/204.png
+  - name: forretress
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/205.png
+  - name: dunsparce
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/206.png
+  - name: gligar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/207.png
+  - name: steelix
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/208.png
+  - name: snubbull
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/209.png
+  - name: granbull
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/210.png
+  - name: qwilfish
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/211.png
+  - name: scizor
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/212.png
+  - name: shuckle
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/213.png
+  - name: heracross
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/214.png
+  - name: sneasel
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/215.png
+  - name: teddiursa
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/216.png
+  - name: ursaring
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/217.png
+  - name: slugma
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/218.png
+  - name: magcargo
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/219.png
+  - name: swinub
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/220.png
+  - name: piloswine
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/221.png
+  - name: corsola
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/222.png
+  - name: remoraid
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/223.png
+  - name: octillery
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/224.png
+  - name: delibird
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/225.png
+  - name: mantine
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/226.png
+  - name: skarmory
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/227.png
+  - name: houndour
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/228.png
+  - name: houndoom
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/229.png
+  - name: kingdra
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/230.png
+  - name: phanpy
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/231.png
+  - name: donphan
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/232.png
+  - name: porygon2
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/233.png
+  - name: stantler
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/234.png
+  - name: smeargle
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/235.png
+  - name: tyrogue
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/236.png
+  - name: hitmontop
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/237.png
+  - name: smoochum
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/238.png
+  - name: elekid
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/239.png
+  - name: magby
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/240.png
+  - name: miltank
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/241.png
+  - name: blissey
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/242.png
+  - name: raikou
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/243.png
+  - name: entei
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/244.png
+  - name: suicune
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/245.png
+  - name: larvitar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/246.png
+  - name: pupitar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/247.png
+  - name: tyranitar
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/248.png
+  - name: lugia
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/249.png
+  - name: ho-oh
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/250.png
+  - name: celebi
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/251.png
