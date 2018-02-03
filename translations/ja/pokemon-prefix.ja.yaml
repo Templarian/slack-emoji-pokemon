@@ -164,7 +164,7 @@ emojis:
     src: http://i.imgur.com/9838phS.png
   - name: pokemon-レアコイル
     src: http://i.imgur.com/3bLL11M.png
-  - name: pokemon-farfetch
+  - name: pokemon-カモネギ
     src: http://i.imgur.com/nA5z9vf.png
   - name: pokemon-ドードー
     src: http://i.imgur.com/kah8lVf.png
@@ -302,5 +302,5 @@ emojis:
     src: http://i.imgur.com/EbSLVKQ.png
   - name: pokemon-ミュウ
     src: http://i.imgur.com/5n3F79K.png
-  - name: pokemon-riolu
+  - name: pokemon-リオル
     src: http://i.imgur.com/HPYzUSy.png
