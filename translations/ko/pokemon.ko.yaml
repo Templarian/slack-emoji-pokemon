@@ -1,0 +1,909 @@
+title: pokemon
+emojis:
+  - name: 이상해씨
+    src: http://i.imgur.com/J9ynKU9.png
+  - name: 이상해풀
+    src: http://i.imgur.com/2BmEJY1.png
+  - name: 이상해꽃
+    src: http://i.imgur.com/HyvH3iG.png
+  - name: 파이리
+    src: http://i.imgur.com/jee6nD3.png
+  - name: 리자드
+    src: http://i.imgur.com/Gi9bvn1.png
+  - name: 리자몽
+    src: http://i.imgur.com/xCuEJI7.png
+  - name: 꼬부기
+    src: http://i.imgur.com/dRY9tTv.png
+  - name: 어니부기
+    src: http://i.imgur.com/GGg5FQu.png
+  - name: 거북왕
+    src: http://i.imgur.com/YY1opfi.png
+  - name: 캐터피
+    src: http://i.imgur.com/vB8l2jS.png
+  - name: 단데기
+    src: http://i.imgur.com/FMa6yXY.png
+  - name: 버터플
+    src: http://i.imgur.com/hQAWSog.png
+  - name: 뿔충이
+    src: http://i.imgur.com/t3J27X2.png
+  - name: 딱충이
+    src: http://i.imgur.com/2OxfMtn.png
+  - name: 독침붕
+    src: http://i.imgur.com/C3c8vzg.png
+  - name: 구구
+    src: http://i.imgur.com/4VTVTkk.png
+  - name: 피죤
+    src: http://i.imgur.com/DpzZ91Q.png
+  - name: 피죤투
+    src: http://i.imgur.com/Mc1WObi.png
+  - name: 꼬렛
+    src: http://i.imgur.com/bTejs34.png
+  - name: 레트라
+    src: http://i.imgur.com/UeL4Aag.png
+  - name: 깨비참
+    src: http://i.imgur.com/TeuYzrs.png
+  - name: 깨비드릴조
+    src: http://i.imgur.com/LObFh67.png
+  - name: 아보
+    src: http://i.imgur.com/r87rWZ6.png
+  - name: 아보크
+    src: http://i.imgur.com/sbshBkp.png
+  - name: 피카츄
+    src: http://i.imgur.com/d8zj42u.png
+  - name: 라이츄
+    src: http://i.imgur.com/cX0wvid.png
+  - name: 모래두지
+    src: http://i.imgur.com/SLCRvLk.png
+  - name: 고지
+    src: http://i.imgur.com/YW2SBbP.png
+  - name: 니드런암
+    src: http://i.imgur.com/fyzYO8j.png
+  - name: 니드리나
+    src: http://i.imgur.com/MRtZMlI.png
+  - name: 니드퀸
+    src: http://i.imgur.com/fgKWPJf.png
+  - name: 니드런수
+    src: http://i.imgur.com/GRMydJg.png
+  - name: 니드리노
+    src: http://i.imgur.com/XtN73fs.png
+  - name: 니드킹
+    src: http://i.imgur.com/Ov2IDRZ.png
+  - name: 삐삐
+    src: http://i.imgur.com/z8n0knm.png
+  - name: 픽시
+    src: http://i.imgur.com/zWGtXjb.png
+  - name: 식스테일
+    src: http://i.imgur.com/ArDTU7v.png
+  - name: 나인테일
+    src: http://i.imgur.com/ZOBFyZo.png
+  - name: 푸린
+    src: http://i.imgur.com/ipf4Mp3.png
+  - name: 푸크린
+    src: http://i.imgur.com/ZmdlC1T.png
+  - name: 주뱃
+    src: http://i.imgur.com/w8oCg2P.png
+  - name: 골뱃
+    src: http://i.imgur.com/muZnJwl.png
+  - name: 뚜벅쵸
+    src: http://i.imgur.com/ng75ubV.png
+  - name: 냄새꼬
+    src: http://i.imgur.com/Krw7NhL.png
+  - name: 라플레시아
+    src: http://i.imgur.com/QipChtU.png
+  - name: 파라스
+    src: http://i.imgur.com/JWYUQ2D.png
+  - name: 파라섹트
+    src: http://i.imgur.com/TTm83oB.png
+  - name: 콘팡
+    src: http://i.imgur.com/rK55R0R.png
+  - name: 도나리
+    src: http://i.imgur.com/cr7Hrtz.png
+  - name: 디그다
+    src: http://i.imgur.com/4rgKdgx.png
+  - name: 닥트리오
+    src: http://i.imgur.com/DgUAgCb.png
+  - name: 나옹
+    src: http://i.imgur.com/VBO9q67.png
+  - name: 페르시온
+    src: http://i.imgur.com/Ebeufiu.png
+  - name: 고라파덕
+    src: http://i.imgur.com/vZ9t8bU.png
+  - name: 골덕
+    src: http://i.imgur.com/6elJIqf.png
+  - name: 망키
+    src: http://i.imgur.com/ZADfOPO.png
+  - name: 성원숭
+    src: http://i.imgur.com/zbCGbRT.png
+  - name: 가디
+    src: http://i.imgur.com/1tHmP4M.png
+  - name: 윈디
+    src: http://i.imgur.com/rfk9PVT.png
+  - name: 발챙이
+    src: http://i.imgur.com/iWgkh6Z.png
+  - name: 슈륙챙이
+    src: http://i.imgur.com/LstLmxR.png
+  - name: 강챙이
+    src: http://i.imgur.com/wCBEXvZ.png
+  - name: 캐이시
+    src: http://i.imgur.com/m6SEUIc.png
+  - name: 윤겔라
+    src: http://i.imgur.com/MImxjGE.png
+  - name: 후딘
+    src: http://i.imgur.com/39ffQOc.png
+  - name: 알통몬
+    src: http://i.imgur.com/RTrQqOh.png
+  - name: 근육몬
+    src: http://i.imgur.com/BxYqaV7.png
+  - name: 괴력몬
+    src: http://i.imgur.com/M4EhGUa.png
+  - name: 모다피
+    src: http://i.imgur.com/z9GIhur.png
+  - name: 우츠동
+    src: http://i.imgur.com/YV6kNAz.png
+  - name: 우츠보트
+    src: http://i.imgur.com/iBs61Rw.png
+  - name: 왕눈해
+    src: http://i.imgur.com/0mCuhFr.png
+  - name: 독파리
+    src: http://i.imgur.com/b6Gazzn.png
+  - name: 꼬마돌
+    src: http://i.imgur.com/7stN60U.png
+  - name: 데구리
+    src: http://i.imgur.com/ey0UYBh.png
+  - name: 딱구리
+    src: http://i.imgur.com/WvICAUZ.png
+  - name: 포니타
+    src: http://i.imgur.com/QOAowzP.png
+  - name: 날쌩마
+    src: http://i.imgur.com/vsFF9vy.png
+  - name: 야돈
+    src: http://i.imgur.com/JHOjICn.png
+  - name: 야도란
+    src: http://i.imgur.com/iAtAgi4.png
+  - name: 코일
+    src: http://i.imgur.com/9838phS.png
+  - name: 레어코일
+    src: http://i.imgur.com/3bLL11M.png
+  - name: 파오리
+    src: http://i.imgur.com/nA5z9vf.png
+  - name: 두두
+    src: http://i.imgur.com/kah8lVf.png
+  - name: 두트리오
+    src: http://i.imgur.com/pplDPof.png
+  - name: 쥬쥬
+    src: http://i.imgur.com/n2mUSQM.png
+  - name: 쥬레곤
+    src: http://i.imgur.com/e2sVFJ9.png
+  - name: 질퍽이
+    src: http://i.imgur.com/JqBcHP3.png
+  - name: 질뻐기
+    src: http://i.imgur.com/3tDlRaF.png
+  - name: 셀러
+    src: http://i.imgur.com/ijYCl5X.png
+  - name: 파르셀
+    src: http://i.imgur.com/BVPJ9mT.png
+  - name: 고오스
+    src: http://i.imgur.com/WyqrW1i.png
+  - name: 고우스트
+    src: http://i.imgur.com/QTsY4Pj.png
+  - name: 팬텀
+    src: http://i.imgur.com/sRpm6ko.png
+  - name: 롱스톤
+    src: http://i.imgur.com/0VorWp9.png
+  - name: 슬리프
+    src: http://i.imgur.com/0r60JJM.png
+  - name: 슬리퍼
+    src: http://i.imgur.com/SkFsbbm.png
+  - name: 크랩
+    src: http://i.imgur.com/jY95paa.png
+  - name: 킹크랩
+    src: http://i.imgur.com/sd2Txy7.png
+  - name: 찌리리공
+    src: http://i.imgur.com/HcFELhG.png
+  - name: 붐볼
+    src: http://i.imgur.com/TZZ4Oyg.png
+  - name: 아라리
+    src: http://i.imgur.com/iR6uH27.png
+  - name: 나시
+    src: http://i.imgur.com/vdaiuyl.png
+  - name: 탕구리
+    src: http://i.imgur.com/5ahcjNN.png
+  - name: 텅구리
+    src: http://i.imgur.com/UdDCob5.png
+  - name: 시라소몬
+    src: http://i.imgur.com/neZvjyS.png
+  - name: 홍수몬
+    src: http://i.imgur.com/JWcdbk5.png
+  - name: 내루미
+    src: http://i.imgur.com/aZOT7Aq.png
+  - name: 또가스
+    src: http://i.imgur.com/27Oq8tF.png
+  - name: 또도가스
+    src: http://i.imgur.com/AM4T75L.png
+  - name: 뿔카노
+    src: http://i.imgur.com/kvmV7Rv.png
+  - name: 코뿌리
+    src: http://i.imgur.com/3oXMPAn.png
+  - name: 럭키
+    src: http://i.imgur.com/dqfduAJ.png
+  - name: 덩쿠리
+    src: http://i.imgur.com/YifjSAL.png
+  - name: 캥카
+    src: http://i.imgur.com/cXO0pEr.png
+  - name: 쏘드라
+    src: http://i.imgur.com/KPORG91.png
+  - name: 시드라
+    src: http://i.imgur.com/uMbL1Sd.png
+  - name: 콘치
+    src: http://i.imgur.com/WTsVZD0.png
+  - name: 왕콘치
+    src: http://i.imgur.com/QPXKxb6.png
+  - name: 별가사리
+    src: http://i.imgur.com/pAMBC7h.png
+  - name: 아쿠스타
+    src: http://i.imgur.com/IrE5Z0j.png
+  - name: 마임맨
+    src: http://i.imgur.com/cQNEwsX.png
+  - name: 스라크
+    src: http://i.imgur.com/rRHori0.png
+  - name: 루주라
+    src: http://i.imgur.com/eMJ7fC5.png
+  - name: 에레브
+    src: http://i.imgur.com/TFt4SNV.png
+  - name: 마그마
+    src: http://i.imgur.com/RjFcLOz.png
+  - name: 쁘사이저
+    src: http://i.imgur.com/Df1mbmR.png
+  - name: 켄타로스
+    src: http://i.imgur.com/3W1Cjba.png
+  - name: 잉어킹
+    src: http://i.imgur.com/jzmho2Y.png
+  - name: 갸라도스
+    src: http://i.imgur.com/Evtm1DG.png
+  - name: 라프라스
+    src: http://i.imgur.com/0YWCWiC.png
+  - name: 메타몽
+    src: http://i.imgur.com/Wv5qoAv.png
+  - name: 이브이
+    src: http://i.imgur.com/ci7ZrUx.png
+  - name: 샤미드
+    src: http://i.imgur.com/9PFAu2e.png
+  - name: 쥬피썬더
+    src: http://i.imgur.com/my4fdKU.png
+  - name: 부스터
+    src: http://i.imgur.com/9IoE33v.png
+  - name: 폴리곤
+    src: http://i.imgur.com/gV34Aeb.png
+  - name: 암나이트
+    src: http://i.imgur.com/kX5obKw.png
+  - name: 암스타
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: 투구
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: 투구푸스
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: 프테라
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: 잠만보
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: 프리져
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: 썬더
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: 파이어
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: 미뇽
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: 신뇽
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: 망나뇽
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: 뮤츠
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: 뮤
+    src: http://i.imgur.com/5n3F79K.png
+  - name: 리오르
+    src: http://i.imgur.com/HPYzUSy.png
+  - name: 치코리타
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chikorita.png
+  - name: 베이리프
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bayleef.png
+  - name: 메가니움
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/meganium.png
+  - name: 브케인
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cyndaquil.png
+  - name: 마그케인
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/quilava.png
+  - name: 블레이범
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/typhlosion.png
+  - name: 리아코
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/totodile.png
+  - name: 엘리게이
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/croconaw.png
+  - name: 장크로다일
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/feraligatr.png
+  - name: 꼬리선
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sentret.png
+  - name: 다꼬리
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/furret.png
+  - name: 부우부
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hoothoot.png
+  - name: 야부엉
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/noctowl.png
+  - name: 레디바
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ledyba.png
+  - name: 레디안
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ledian.png
+  - name: 페이검
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/spinarak.png
+  - name: 아리아도스
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ariados.png
+  - name: 크로뱃
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/crobat.png
+  - name: 초라기
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chinchou.png
+  - name: 랜턴
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lanturn.png
+  - name: 피츄
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pichu.png
+  - name: 삐
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cleffa.png
+  - name: 푸푸린
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/igglybuff.png
+  - name: 토게피
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/togepi.png
+  - name: 토게틱
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/togetic.png
+  - name: 네이티
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/natu.png
+  - name: 네이티오
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/xatu.png
+  - name: 메리프
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mareep.png
+  - name: 보송송
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/flaaffy.png
+  - name: 전룡
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ampharos.png
+  - name: 아르코
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bellossom.png
+  - name: 마릴
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/marill.png
+  - name: 마릴리
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/azumarill.png
+  - name: 꼬지모
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sudowoodo.png
+  - name: 왕구리
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/politoed.png
+  - name: 통통코
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hoppip.png
+  - name: 두코
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/skiploom.png
+  - name: 솜솜코
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/jumpluff.png
+  - name: 에이팜
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/aipom.png
+  - name: 해너츠
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sunkern.png
+  - name: 해루미
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sunflora.png
+  - name: 왕자리
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/yanma.png
+  - name: 우파
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wooper.png
+  - name: 누오
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/quagsire.png
+  - name: 에브이
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/espeon.png
+  - name: 블래키
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/umbreon.png
+  - name: 니로우
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/murkrow.png
+  - name: 야도킹
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/slowking.png
+  - name: 무우마
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/misdreavus.png
+  - name: 안농
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/unown.png
+  - name: 마자용
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wobbuffet.png
+  - name: 키링키
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/girafarig.png
+  - name: 피콘
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pineco.png
+  - name: 쏘콘
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/forretress.png
+  - name: 노고치
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/dunsparce.png
+  - name: 글라이거
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/gligar.png
+  - name: 강철톤
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/steelix.png
+  - name: 블루
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/snubbull.png
+  - name: 그랑블루
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/granbull.png
+  - name: 침바루
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/qwilfish.png
+  - name: 핫삼
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/scizor.png
+  - name: 단단지
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/shuckle.png
+  - name: 헤라크로스
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/heracross.png
+  - name: 포푸니
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sneasel.png
+  - name: 깜지곰
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/teddiursa.png
+  - name: 링곰
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ursaring.png
+  - name: 마그마그
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/slugma.png
+  - name: 마그카르고
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magcargo.png
+  - name: 꾸꾸리
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/swinub.png
+  - name: 메꾸리
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/piloswine.png
+  - name: 코산호
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/corsola.png
+  - name: 총어
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/remoraid.png
+  - name: 대포무노
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/octillery.png
+  - name: 딜리버드
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/delibird.png
+  - name: 만타인
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mantine.png
+  - name: 무장조
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/skarmory.png
+  - name: 델빌
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndour.png
+  - name: 헬가
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndoom.png
+  - name: 킹드라
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/kingdra.png
+  - name: 코코리
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/phanpy.png
+  - name: 코리갑
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/donphan.png
+  - name: 폴리곤2
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/porygon2.png
+  - name: 노라키
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/stantler.png
+  - name: 루브도
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/smeargle.png
+  - name: 배루키
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tyrogue.png
+  - name: 카포에라
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hitmontop.png
+  - name: 뽀뽀라
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/smoochum.png
+  - name: 에레키드
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/elekid.png
+  - name: 마그비
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magby.png
+  - name: 밀탱크
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/miltank.png
+  - name: 해피너스
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blissey.png
+  - name: 라이코
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/raikou.png
+  - name: 앤테이
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/entei.png
+  - name: 스이쿤
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/suicune.png
+  - name: 애버라스
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/larvitar.png
+  - name: 데기라스
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pupitar.png
+  - name: 마기라스
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tyranitar.png
+  - name: 루기아
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lugia.png
+  - name: 칠색조
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ho-oh.png
+  - name: 세레비
+    src: https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/celebi.png
+
+
+  - name: 치코리타
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/152.png
+  - name: 베이리프
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/153.png
+  - name: 메가니움
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/154.png
+  - name: 브케인
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/155.png
+  - name: 마그케인
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/156.png
+  - name: 블레이범
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/157.png
+  - name: 리아코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/158.png
+  - name: 엘리게이
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/159.png
+  - name: 장크로다일
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/160.png
+  - name: 꼬리선
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/161.png
+  - name: 다꼬리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/162.png
+  - name: 부우부
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/163.png
+  - name: 야부엉
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/164.png
+  - name: 레디바
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/165.png
+  - name: 레디안
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/166.png
+  - name: 페이검
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/167.png
+  - name: 아리아도스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/168.png
+  - name: 크로뱃
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/169.png
+  - name: 초라기
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/170.png
+  - name: 랜턴
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/171.png
+  - name: 피츄
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/172.png
+  - name: 삐
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/173.png
+  - name: 푸푸린
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/174.png
+  - name: 토게피
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/175.png
+  - name: 토게틱
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/176.png
+  - name: 네이티
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/177.png
+  - name: 네이티오
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/178.png
+  - name: 메리프
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/179.png
+  - name: 보송송
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/180.png
+  - name: 전룡
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/181.png
+  - name: 아르코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/182.png
+  - name: 마릴
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/183.png
+  - name: 마릴리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/184.png
+  - name: 꼬지모
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/185.png
+  - name: 왕구리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/186.png
+  - name: 통통코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/187.png
+  - name: 두코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/188.png
+  - name: 솜솜코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/189.png
+  - name: 에이팜
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/190.png
+  - name: 해너츠
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/191.png
+  - name: 해루미
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/192.png
+  - name: 왕자리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/193.png
+  - name: 우파
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/194.png
+  - name: 누오
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/195.png
+  - name: 에브이
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/196.png
+  - name: 블래키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/197.png
+  - name: 니로우
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/198.png
+  - name: 야도킹
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/199.png
+  - name: 무우마
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/200.png
+  - name: 안농
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/201.png
+  - name: 마자용
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/202.png
+  - name: 키링키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/203.png
+  - name: 피콘
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/204.png
+  - name: 쏘콘
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/205.png
+  - name: 노고치
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/206.png
+  - name: 글라이거
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/207.png
+  - name: 강철톤
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/208.png
+  - name: 블루
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/209.png
+  - name: 그랑블루
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/210.png
+  - name: 침바루
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/211.png
+  - name: 핫삼
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/212.png
+  - name: 단단지
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/213.png
+  - name: 헤라크로스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/214.png
+  - name: 포푸니
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/215.png
+  - name: 깜지곰
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/216.png
+  - name: 링곰
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/217.png
+  - name: 마그마그
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/218.png
+  - name: 마그카르고
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/219.png
+  - name: 꾸꾸리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/220.png
+  - name: 메꾸리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/221.png
+  - name: 코산호
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/222.png
+  - name: 총어
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/223.png
+  - name: 대포무노
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/224.png
+  - name: 딜리버드
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/225.png
+  - name: 만타인
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/226.png
+  - name: 무장조
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/227.png
+  - name: 델빌
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/228.png
+  - name: 헬가
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/229.png
+  - name: 킹드라
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/230.png
+  - name: 코코리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/231.png
+  - name: 코리갑
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/232.png
+  - name: 폴리곤2
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/233.png
+  - name: 노라키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/234.png
+  - name: 루브도
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/235.png
+  - name: 배루키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/236.png
+  - name: 카포에라
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/237.png
+  - name: 뽀뽀라
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/238.png
+  - name: 에레키드
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/239.png
+  - name: 마그비
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/240.png
+  - name: 밀탱크
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/241.png
+  - name: 해피너스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/242.png
+  - name: 라이코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/243.png
+  - name: 앤테이
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/244.png
+  - name: 스이쿤
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/245.png
+  - name: 애버라스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/246.png
+  - name: 데기라스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/247.png
+  - name: 마기라스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/248.png
+  - name: 루기아
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/249.png
+  - name: 칠색조
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/250.png
+  - name: 세레비
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/251.png
+
+  - name: 치코리타
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/152.png
+  - name: 베이리프
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/153.png
+  - name: 메가니움
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/154.png
+  - name: 브케인
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/155.png
+  - name: 마그케인
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/156.png
+  - name: 블레이범
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/157.png
+  - name: 리아코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/158.png
+  - name: 엘리게이
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/159.png
+  - name: 장크로다일
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/160.png
+  - name: 꼬리선
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/161.png
+  - name: 다꼬리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/162.png
+  - name: 부우부
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/163.png
+  - name: 야부엉
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/164.png
+  - name: 레디바
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/165.png
+  - name: 레디안
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/166.png
+  - name: 페이검
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/167.png
+  - name: 아리아도스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/168.png
+  - name: 크로뱃
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/169.png
+  - name: 초라기
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/170.png
+  - name: 랜턴
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/171.png
+  - name: 피츄
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/172.png
+  - name: 삐
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/173.png
+  - name: 푸푸린
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/174.png
+  - name: 토게피
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/175.png
+  - name: 토게틱
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/176.png
+  - name: 네이티
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/177.png
+  - name: 네이티오
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/178.png
+  - name: 메리프
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/179.png
+  - name: 보송송
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/180.png
+  - name: 전룡
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/181.png
+  - name: 아르코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/182.png
+  - name: 마릴
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/183.png
+  - name: 마릴리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/184.png
+  - name: 꼬지모
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/185.png
+  - name: 왕구리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/186.png
+  - name: 통통코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/187.png
+  - name: 두코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/188.png
+  - name: 솜솜코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/189.png
+  - name: 에이팜
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/190.png
+  - name: 해너츠
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/191.png
+  - name: 해루미
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/192.png
+  - name: 왕자리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/193.png
+  - name: 우파
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/194.png
+  - name: 누오
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/195.png
+  - name: 에브이
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/196.png
+  - name: 블래키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/197.png
+  - name: 니로우
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/198.png
+  - name: 야도킹
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/199.png
+  - name: 무우마
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/200.png
+  - name: 안농
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/201.png
+  - name: 마자용
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/202.png
+  - name: 키링키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/203.png
+  - name: 피콘
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/204.png
+  - name: 쏘콘
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/205.png
+  - name: 노고치
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/206.png
+  - name: 글라이거
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/207.png
+  - name: 강철톤
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/208.png
+  - name: 블루
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/209.png
+  - name: 그랑블루
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/210.png
+  - name: 침바루
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/211.png
+  - name: 핫삼
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/212.png
+  - name: 단단지
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/213.png
+  - name: 헤라크로스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/214.png
+  - name: 포푸니
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/215.png
+  - name: 깜지곰
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/216.png
+  - name: 링곰
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/217.png
+  - name: 마그마그
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/218.png
+  - name: 마그카르고
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/219.png
+  - name: 꾸꾸리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/220.png
+  - name: 메꾸리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/221.png
+  - name: 코산호
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/222.png
+  - name: 총어
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/223.png
+  - name: 대포무노
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/224.png
+  - name: 딜리버드
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/225.png
+  - name: 만타인
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/226.png
+  - name: 무장조
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/227.png
+  - name: 델빌
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/228.png
+  - name: 헬가
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/229.png
+  - name: 킹드라
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/230.png
+  - name: 코코리
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/231.png
+  - name: 코리갑
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/232.png
+  - name: 폴리곤2
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/233.png
+  - name: 노라키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/234.png
+  - name: 루브도
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/235.png
+  - name: 배루키
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/236.png
+  - name: 카포에라
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/237.png
+  - name: 뽀뽀라
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/238.png
+  - name: 에레키드
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/239.png
+  - name: 마그비
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/240.png
+  - name: 밀탱크
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/241.png
+  - name: 해피너스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/242.png
+  - name: 라이코
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/243.png
+  - name: 앤테이
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/244.png
+  - name: 스이쿤
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/245.png
+  - name: 애버라스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/246.png
+  - name: 데기라스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/247.png
+  - name: 마기라스
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/248.png
+  - name: 루기아
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/249.png
+  - name: 칠색조
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/250.png
+  - name: 세레비
+    src: https://pro-rankedboost.netdna-ssl.com/wp-content/plugins/ice/riot/poksimages/pokemons2/251.png
